@@ -7,7 +7,7 @@ Welcome to my version of the arcade game Frogger. I hope that you'll have fun pl
 
 At the beginning of the game, you can press "p" to select a character to play the game. Keep
 pressing "p" to cycle through the list of characters you can choose. Then, press "s" to start the
-game.
+game. Use the arrow keys: up, down, right, left to move the player around the board.
 
 The game keeps track of your score. You can score 1 point when you reach the lake area. The game
 will transport your player to the starting position after touching the water. You can also score 2
